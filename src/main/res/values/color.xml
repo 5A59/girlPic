@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main">#00bcd4</color>
+    <color name="bar">#00acc1</color>
+    <color name="text">#e0f7fa</color>
+    <color name="white">#ffffff</color>
+    <color name="per">#9575cd</color>
+    <color name="alphamain">#6000bcd4</color>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="dialog">24dp</dimen>
+    <dimen name="picker">24dp</dimen>
+    <dimen name="nav_drawer">16dp</dimen>
+    <dimen name="right_drawer">16dp</dimen>
+    <dimen name="bottom_sheet">16dp</dimen>
+    <dimen name="floating_action_button_pressed">12dp</dimen>
+    <dimen name="floating_action_button_resting">6dp</dimen>
+    <dimen name="sub_menu">9dp</dimen>
+    <dimen name="in_sub_menu">10dp</dimen>
+    <dimen name="menu">8dp</dimen>
+    <dimen name="card">8dp</dimen>
+    <dimen name="raised_button">8dp</dimen>
+    <dimen name="snackbar">6dp</dimen>
+    <dimen name="app_bar">4dp</dimen>
+    <dimen name="refresh_indicator">3dp</dimen>
+    <dimen name="quick_entry_scrolled">3dp</dimen>
+    <dimen name="search_bar_scrolled">3dp</dimen>
+    <dimen name="card_resting">2dp</dimen>
+    <dimen name="raised_button_resting">2dp</dimen>
+    <dimen name="quick_entry_resting">2dp</dimen>
+    <dimen name="search_bar_restomg">2dp</dimen>
+    <dimen name="switch_">1dp</dimen>
+
+    <dimen name="upbutton">30dp</dimen>
+    <dimen name="uptext">65dp</dimen>
+    <dimen name="upright">29dp</dimen>
+
+    <dimen name="fab_right">16dp</dimen>
+    <dimen name="fab_bottom">20dp</dimen>
+</resources>
